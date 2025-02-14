@@ -1,0 +1,9 @@
+Epoch 1/10, Training Loss: 267.7644, Training Accuracy: 58.41%
+Validation Loss: 91280.6782, Validation Accuracy: 65.27%
+Learning Rate: 0.0000100
+Epoch 2/10, Training Loss: 249.3946, Training Accuracy: 65.07%
+Validation Loss: 60174.4041, Validation Accuracy: 80.17%
+Learning Rate: 0.0000100
+Epoch 3/10, Training Loss: 159.6605, Training Accuracy: 81.89%
+Validation Loss: 42251.0737, Validation Accuracy: 84.89%
+Learning Rate: 0.0000100
